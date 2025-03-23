@@ -34,7 +34,7 @@ server will run on localhost:3000
 npm test
 ```
 
-
+### Demo use cases -
 
 ```
         import Autocomplete from './Autocomplete'

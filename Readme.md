@@ -1,6 +1,6 @@
 # React AutoComplete Component
 
-A customizable autocomplete/typeahead component with async suggestions fetching and accessibility support.
+A customizable autocomplete/typeahead component with async suggestions fetching , highlight suggestions and accessibility support.
 
 ## Features
 

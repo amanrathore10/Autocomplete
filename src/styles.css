@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.h3{
+  color: #f85f5f;
+}
+
+.suggestion-active{
+  background: #f85f5f;
+}
